@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf210
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
@@ -23,3 +24,9 @@ To implement the platform, we use the following Python and IPython (notebook int
 [Topics]\
 - [Epidemic Model](DiffEq/0-Basics.ipynb)\
 - [Greatest Indian Rope-Strick](Sim/index.ipynb)}
+=======
+DyLabIPy
+========
+
+OnLine Dynamics Laboratory IPython
+>>>>>>> 7105b8a04a5fbab142393dc1736b68851ac65e43
