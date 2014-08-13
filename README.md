@@ -1,7 +1,8 @@
-[on-line Dynamics Laboratary On IPython]
+#[on-line Dynamics Laboratary On IPython]#
 
 ## Index
-This purpose of package is to avail ubiquitous on-line Lab for Dynamic, with minimal resources but unlimit gains.
+[Purpose of package]
+avail ubiquitous on-line Lab for Dynamic Lab, with minimal resources but unlimit gains.
 
 To implement the platform, we use the following Python and IPython (notebook interface) as the user interface on the top of power Python computing environment. Sources can be re-used on Sage Notebook.
 
