@@ -1,4 +1,4 @@
-#[on-line Dynamics Laboratary On IPython]#
+#On-line Laboratary for Dynamical Systems On IPython#
 
 ## Index
 [Purpose of package]
