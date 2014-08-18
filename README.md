@@ -17,6 +17,7 @@ To implement the platform, we use the following Python and IPython (notebook int
 
 [Topics]
 - [Epidemic Model (IPyNB)](DiffEq/0-Basics.ipynb), [Epidemic Model (HTML)](DiffEq/0-Basics.html)
+- [2D Dynamical Systems](DiffEq/2Dde.ipynb)
 - [Greatest Indian Rope-Strick (IPyNB)](Sim/index.ipynb), 
-   - a) Double Pendulum: [IPyNB](Sim/ivisual-1.ipynb), [HTML](Sim/ivisual-1.html)
-   - b) Inverted Pendulum: [IPyNB](Sim/ivisual-2.ipynb), [HTML](Sim/ivisual-2.html)
+   -  Double Pendulum: [IPyNB](Sim/ivisual-1.ipynb), [HTML](Sim/ivisual-1.html)
+   -  Inverted Pendulum: [IPyNB](Sim/ivisual-2.ipynb), [HTML](Sim/ivisual-2.html)
