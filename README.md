@@ -17,7 +17,8 @@ To implement the platform, we use the following Python and IPython (notebook int
 
 [Topics]
 - [Epidemic Model](DiffEq/0-Basics.ipynb), [Epidemic Model (HTML)](DiffEq/0-Basics.html)
-
+- [Epidemic SIR Model](DiffEq/SIR.ipynb)
+![ode 1](screenshots/SIR.png)
 - [2D Dynamical Systems](DiffEq/2Dde.ipynb)
 ![ode 1](screenshots/2de.png)
 - [Greatest Indian Rope-Strick](Sim/index.ipynb)
