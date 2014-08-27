@@ -16,11 +16,18 @@ To implement the platform, we use the following Python and IPython (notebook int
 
 
 [Topics]
-- [Epidemic Model (IPyNB)](DiffEq/0-Basics.ipynb), [Epidemic Model (HTML)](DiffEq/0-Basics.html)
+- [Epidemic Model](DiffEq/0-Basics.ipynb), [Epidemic Model (HTML)](DiffEq/0-Basics.html)
+
 - [2D Dynamical Systems](DiffEq/2Dde.ipynb)
-- [Greatest Indian Rope-Strick (IPyNB)](Sim/index.ipynb), 
+![ode 1](screenshots/2de.png)
+- [Greatest Indian Rope-Strick](Sim/index.ipynb)
    -  Double Pendulum: [IPyNB](Sim/ivisual-1.ipynb), [HTML](Sim/ivisual-1.html)
    -  Inverted Pendulum: [IPyNB](Sim/ivisual-2.ipynb), [HTML](Sim/ivisual-2.html)
-- [Laplace Equation]( DiffEq/3__2D_poisson.ipynb) 
-- [Heat Equation](DiffEq/diffusion.ipynb)
-- [Wave Equation](DiffEq/wave.ipynb)
+- [2D Poisson Equations (PDE)](DiffEq/3__2D_poisson.ipynb) 
+![PDE 1](screenshots/poisson.png)
+- [2D Heat Equations (PDE)](DiffEq/diffusion.ipynb) 
+![PDE 2](screenshots/heat.png)
+- [2D wave Equations (PDE)](DiffEq/wave.ipynb) 
+![PDE 3](screenshots/wave.png)
+- [Nonlinear PDE](DiffEq/nonlinearPDE.ipynb)
+![PDE 4](screenshots/KdV.png)
