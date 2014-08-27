@@ -21,4 +21,6 @@ To implement the platform, we use the following Python and IPython (notebook int
 - [Greatest Indian Rope-Strick (IPyNB)](Sim/index.ipynb), 
    -  Double Pendulum: [IPyNB](Sim/ivisual-1.ipynb), [HTML](Sim/ivisual-1.html)
    -  Inverted Pendulum: [IPyNB](Sim/ivisual-2.ipynb), [HTML](Sim/ivisual-2.html)
-- [2D Poisson Equations (PDE)](DiffEq/3__2D_poisson.ipynb)  
+- [Laplace Equation]( DiffEq/3__2D_poisson.ipynb) 
+- [Heat Equation](DiffEq/diffusion.ipynb)
+- [Wave Equation](DiffEq/wave.ipynb)
