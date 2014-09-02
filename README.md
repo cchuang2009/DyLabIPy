@@ -2,7 +2,7 @@
 
 ## Index
 [Purpose of package]
-avail ubiquitous on-line Lab for Dynamic Lab, with minimal resources but un-limit gains.
+avails ubiquitous on-line Lab for Dynamic systems, with minimal resources but un-limit gains.
 
 To implement the platform, we use the following Python and IPython (notebook interface) as the user interface on the top of power Python computing environment. Sources can be re-used on Sage Notebook.
 
