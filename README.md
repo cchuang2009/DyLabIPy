@@ -4,7 +4,13 @@
 [Purpose of package]
 avails ubiquitous on-line Lab for Dynamic systems, with minimal resources but un-limit gains.
 
-To implement the platform, we use the following Python and IPython (notebook interface) as the user interface on the top of power Python computing environment. Sources can be re-used on Sage Notebook.
+
+
+To implement the platform, we use the following Python and IPython (notebook interface) as the user interface on the top of Python computing environment. Sources can be re-used on Sage Notebook.
+
+Different from the traditional computing environment, the philosophy of DyLabIPy is designed to avail some auto-generated scheme for computation:
+
+acclaim the initial/boundary/constrains, the governed equation, run, and output the data. To highlight the computed data, DyLabIPy also supports static, animation output formats with interactivity based on the general browser clients and on IPython Notebook interface.
 
 [Python Modules Requirement]
  
